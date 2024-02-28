@@ -1,5 +1,5 @@
 # ParkingAPP - License Plate Recognition Parking Management System
-
+**If you find the repository informative and believe it could assist you in your projects, consider giving it a star ⭐️**
 ## Description
 
 ParkingAPP is a Python-based parking management system with License Plate Recognition (LPR) capabilities. The application is developed as a project for the "Computer Vision" module during my Master's degree in Computer Vision at USTHB (University of Science and Technology Houari Boumediene).
